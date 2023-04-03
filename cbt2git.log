@@ -1,0 +1,7 @@
+2023-04-03 02:35:59.289254 - Initialized conversion of CBT777
+2023-04-03 02:35:59.327734 - Received CBT.V504.FILE777.PDS from FILE777.XMI 
+2023-04-03 02:35:59.330317 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE777.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:35:59.331930 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE777.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:35:59.333002 - Found $SPDISK.jcl (text/plain) in CBT.V504.FILE777.PDS, moved to PDS/$SPDISK
+2023-04-03 02:35:59.334351 - Found @FILE777.txt (text/plain) in CBT.V504.FILE777.PDS, moved to PDS/@FILE777
+2023-04-03 02:35:59.335346 - Found SPDISK.txt (text/plain) in CBT.V504.FILE777.PDS, moved to PDS/SPDISK
