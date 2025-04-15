@@ -1,6 +1,6 @@
-2025-04-13 22:44:55.922057 - Received CBT.V508.FILE777.PDS from FILE777.XMI 
-2025-04-13 22:44:55.922801 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:44:55.922898 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/$$NOTE1
-2025-04-13 22:44:55.922979 - Found $SPDISK.jcl (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/$SPDISK
-2025-04-13 22:44:55.923045 - Found @FILE777.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/@FILE777
-2025-04-13 22:44:55.923125 - Found SPDISK.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/SPDISK
+2025-04-15 05:31:18.560190 - Received CBT.V508.FILE777.PDS from FILE777.XMI 
+2025-04-15 05:31:18.561336 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:31:18.561532 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:31:18.561903 - Found $SPDISK.jcl (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/$SPDISK
+2025-04-15 05:31:18.562091 - Found @FILE777.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/@FILE777
+2025-04-15 05:31:18.562479 - Found SPDISK.txt (text/plain) in CBT.V508.FILE777.PDS, moved to PDS/SPDISK
